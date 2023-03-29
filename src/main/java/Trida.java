@@ -1,3 +1,7 @@
+/**
+ * komentář
+ * */
+
 public class Trida {
 
    public static void main(String[] args) {
