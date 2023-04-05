@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd5604da-7573-45c2-befa-d8177e24096a" name="Changes" comment="okomentovani trid">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cd5604da-7573-45c2-befa-d8177e24096a" name="Changes" comment="misc" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,23 +39,12 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Hlavni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hlavni" />
@@ -91,6 +73,7 @@
       <updated>1680078894166</updated>
       <workItem from="1680078895823" duration="3147000" />
       <workItem from="1680096110092" duration="158000" />
+      <workItem from="1680682203564" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="Hlavni trida Hlavni&#10;&#10;Trida vypise ahoj na konzoli.">
       <created>1680079543695</created>
@@ -120,20 +103,32 @@
       <option name="project" value="LOCAL" />
       <updated>1680080215318</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hlavni vypis Cau">
+      <created>1680682302885</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680682302885</updated>
+    </task>
+    <task id="LOCAL-00006" summary="misc">
+      <created>1680682321960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680682321960</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -144,6 +139,8 @@
     <MESSAGE value="trida Trida &#10;&#10;Vypíše Jsem třída." />
     <MESSAGE value="pridani tridy Trida &#10;&#10;Vypíše Jsem třída." />
     <MESSAGE value="okomentovani tridy" />
-    <option name="LAST_COMMIT_MESSAGE" value="okomentovani tridy" />
+    <MESSAGE value="Hlavni vypis Cau" />
+    <MESSAGE value="misc" />
+    <option name="LAST_COMMIT_MESSAGE" value="misc" />
   </component>
 </project>
